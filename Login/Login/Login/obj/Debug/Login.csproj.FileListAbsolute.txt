@@ -1,0 +1,48 @@
+C:\Users\Admin\source\repos\Login\Login\bin\Debug\Login.exe.config
+C:\Users\Admin\source\repos\Login\Login\bin\Debug\Login.exe
+C:\Users\Admin\source\repos\Login\Login\bin\Debug\Login.pdb
+C:\Users\Admin\source\repos\Login\Login\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\Admin\source\repos\Login\Login\bin\Debug\Guna.UI2.dll
+C:\Users\Admin\source\repos\Login\Login\bin\Debug\Guna.Charts.WinForms.xml
+C:\Users\Admin\source\repos\Login\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Login\Login\obj\Debug\Login.Form1.resources
+C:\Users\Admin\source\repos\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\Admin\source\repos\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Login\Login\obj\Debug\Login.csproj.CopyComplete
+C:\Users\Admin\source\repos\Login\Login\obj\Debug\Login.exe
+C:\Users\Admin\source\repos\Login\Login\obj\Debug\Login.pdb
+C:\Users\PC\Documents\Đồ án phầm mềm TH\Login\Login\Login\bin\Debug\Login.exe.config
+C:\Users\PC\Documents\Đồ án phầm mềm TH\Login\Login\Login\bin\Debug\Login.exe
+C:\Users\PC\Documents\Đồ án phầm mềm TH\Login\Login\Login\bin\Debug\Login.pdb
+C:\Users\PC\Documents\Đồ án phầm mềm TH\Login\Login\Login\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\PC\Documents\Đồ án phầm mềm TH\Login\Login\Login\bin\Debug\Guna.UI2.dll
+C:\Users\PC\Documents\Đồ án phầm mềm TH\Login\Login\Login\bin\Debug\Guna.Charts.WinForms.xml
+C:\Users\PC\Documents\Đồ án phầm mềm TH\Login\Login\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Đồ án phầm mềm TH\Login\Login\Login\obj\Debug\Login.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Documents\Đồ án phầm mềm TH\Login\Login\Login\obj\Debug\Login.Form1.resources
+C:\Users\PC\Documents\Đồ án phầm mềm TH\Login\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\PC\Documents\Đồ án phầm mềm TH\Login\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\PC\Documents\Đồ án phầm mềm TH\Login\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Đồ án phầm mềm TH\Login\Login\Login\obj\Debug\Login.csproj.CopyComplete
+C:\Users\PC\Documents\Đồ án phầm mềm TH\Login\Login\Login\obj\Debug\Login.exe
+C:\Users\PC\Documents\Đồ án phầm mềm TH\Login\Login\Login\obj\Debug\Login.pdb
+C:\Users\PC\Documents\Đồ án phầm mềm TH\Login\Login\Login\obj\Debug\Login.Dashboard.resources
+C:\Users\PC\Documents\Đồ án phầm mềm TH\Login\Login\Login\obj\Debug\Login.AllUserControls.UC_Welcome.resources
+C:\Users\Admin\OneDrive\Desktop\Đồ án phần mềm\Login\Login\Login\bin\Debug\Login.exe.config
+C:\Users\Admin\OneDrive\Desktop\Đồ án phần mềm\Login\Login\Login\bin\Debug\Login.exe
+C:\Users\Admin\OneDrive\Desktop\Đồ án phần mềm\Login\Login\Login\bin\Debug\Login.pdb
+C:\Users\Admin\OneDrive\Desktop\Đồ án phần mềm\Login\Login\Login\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án phần mềm\Login\Login\Login\bin\Debug\Guna.UI2.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án phần mềm\Login\Login\Login\bin\Debug\Guna.Charts.WinForms.xml
+C:\Users\Admin\OneDrive\Desktop\Đồ án phần mềm\Login\Login\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\Đồ án phần mềm\Login\Login\Login\obj\Debug\Login.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\OneDrive\Desktop\Đồ án phần mềm\Login\Login\Login\obj\Debug\Login.AllUserControls.UC_Welcome.resources
+C:\Users\Admin\OneDrive\Desktop\Đồ án phần mềm\Login\Login\Login\obj\Debug\Login.Dashboard.resources
+C:\Users\Admin\OneDrive\Desktop\Đồ án phần mềm\Login\Login\Login\obj\Debug\Login.Form1.resources
+C:\Users\Admin\OneDrive\Desktop\Đồ án phần mềm\Login\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Desktop\Đồ án phần mềm\Login\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Desktop\Đồ án phần mềm\Login\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Đồ án phần mềm\Login\Login\Login\obj\Debug\Login.csproj.CopyComplete
+C:\Users\Admin\OneDrive\Desktop\Đồ án phần mềm\Login\Login\Login\obj\Debug\Login.exe
+C:\Users\Admin\OneDrive\Desktop\Đồ án phần mềm\Login\Login\Login\obj\Debug\Login.pdb
